@@ -719,7 +719,10 @@ contact.html
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](h.png)
+![output](h1.png)
+![output](h2.png)
+![output](h3.png)
 
 ## Result:
 
