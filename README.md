@@ -726,4 +726,4 @@ contact.html
 
 ## Result:
 
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+Thus a website is designed for the phone sale product company and the HTML,CSS code are validated.
